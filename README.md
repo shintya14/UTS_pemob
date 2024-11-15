@@ -2,6 +2,7 @@ Nama: Annisa Shintya Ariani
 Nim: 20220801507 
 Mata Kuliah: Pemrograman Mobile (CIE511)
 Dosen Pengampu: Jefry Sunupurwa Asri, S.Kom., M.Kom
+
 Business Requirements Document (BRD)
 Studi Kasus: e-Distribusi Agent
 
